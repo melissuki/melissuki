@@ -75,11 +75,7 @@ Software Engineering student &amp; Certified Frontend Developer | Building respo
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=melissuki&bg_color=00000000&color=a855f7&line=a855f7&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
-### 💭 Dev Quote
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
-</p>
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/melissuki">melissuki</a></i></p>
