@@ -1,21 +1,81 @@
+<!-- ============ HEADER ============ -->
 <p align="center">
-  <a href="https://github.com/melissuki">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=a855f7&fontSize=54&height=90&width=538&text=Hi%2C%20I'm%20Melis!" alt="Hi, I&#39;m Melis!" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:ec4899,100:22d3ee&height=190&section=header&text=Hi,%20I'm%20Melis!&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineering%20Student%20%7C%20Frontend%20Developer&descSize=18&descAlignY=56&animation=fadeIn" alt="Hi, I'm Melis!" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=550&height=44&lines=I'm%20a%20Software%20Engineering%20Student" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=28&pause=1000&color=EC4899&center=true&vCenter=true&width=620&height=50&lines=Software+Engineering+Student+%40+Nisantasi+University;Certified+Frontend+Developer;React+%2B+TypeScript+%2B+Tailwind+CSS;Double+Erasmus%2B+Alumna+-+Portugal+%26+Poland" alt="Typing headlines" />
 </p>
 
-### 🚀 About Me
+<p align="center">
+  <a href="https://linkedin.com/in/KULLANICI-ADIN"><img src="https://img.shields.io/badge/LinkedIn-A855F7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://melissuki.github.io/kisisel-web-sitesi"><img src="https://img.shields.io/badge/Portfolio-EC4899?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:MAIL-ADRESIN"><img src="https://img.shields.io/badge/Email-F472B6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=melissuki&label=Profile%20Views&color=22D3EE&style=for-the-badge" alt="Profile views" />
+</p>
 
-Software Engineering student &amp; Certified Frontend Developer | Building responsive web apps with React &amp; Tailwind
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,50:ec4899,100:22d3ee&height=3&section=header" width="100%" alt="divider" />
 
-🔭 &nbsp;I'm currently working on **Developing modern macOS-themed portfolio web apps and full-stack projects**  
-💬 &nbsp;Ask me about **React, JavaScript, Tailwind CSS, Workintech bootcamp experiences, or my Erasmus+ adventures in Portugal**
+<!-- ============ ABOUT ============ -->
 
-### 🛠️ Tech Stack
+## 👩‍💻 About Me
+
+```ts
+const melis = {
+  location:  "İstanbul, Türkiye 🇹🇷",
+  education: "Software Engineering @ İstanbul Nişantaşı University",
+  role:      "Certified Frontend Developer",
+  focus:     ["React", "TypeScript", "Tailwind CSS", "Next.js"],
+  exchange:  ["Erasmus+ 🇵🇹 Portugal", "Erasmus+ 🇵🇱 Poland"],
+  currently: "Building macOS-themed portfolios & full-stack apps",
+  askMeAbout:["React", "JavaScript", "Tailwind", "Workintech", "Erasmus+"],
+};
+```
+
+- 🎓 &nbsp;**Software Engineering** student at **İstanbul Nişantaşı University**
+- 🌍 &nbsp;Selected for **Erasmus+ twice** — studied in **Portugal 🇵🇹** and **Poland 🇵🇱**
+- 💻 &nbsp;**Certified Frontend Developer** — graduate of the **Workintech** Frontend program
+- 🔭 &nbsp;Currently building **modern macOS-themed portfolio web apps and full-stack projects**
+- 🌱 &nbsp;Deepening my **TypeScript**, **Next.js** and **backend architecture** knowledge
+- 💬 &nbsp;Ask me about **React, JavaScript, Tailwind CSS, Workintech, or my Erasmus+ adventures**
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,50:ec4899,100:22d3ee&height=3&section=header" width="100%" alt="divider" />
+
+<!-- ============ EDUCATION & ERASMUS ============ -->
+
+## 🎓 Education & International Experience
+
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <h3>🇹🇷 Türkiye</h3>
+      <img src="https://img.shields.io/badge/HOME%20UNIVERSITY-A855F7?style=for-the-badge" alt="Home university" /><br /><br />
+      <b>İstanbul Nişantaşı University</b><br />
+      <sub>B.Sc. Software Engineering</sub><br /><br />
+      <sub>Yazılım mühendisliği temelleri, algoritmalar,<br />veri yapıları ve web geliştirme.</sub>
+    </td>
+    <td width="33%" align="center">
+      <h3>🇵🇹 Portugal</h3>
+      <img src="https://img.shields.io/badge/ERASMUS%2B-EC4899?style=for-the-badge" alt="Erasmus+ Portugal" /><br /><br />
+      <b>Exchange Semester</b><br />
+      <sub>Erasmus+ Programme</sub><br /><br />
+      <sub>Uluslararası bir kampüste yazılım eğitimi,<br />çok kültürlü ekiplerle proje deneyimi.</sub>
+    </td>
+    <td width="33%" align="center">
+      <h3>🇵🇱 Poland</h3>
+      <img src="https://img.shields.io/badge/ERASMUS%2B-22D3EE?style=for-the-badge" alt="Erasmus+ Poland" /><br /><br />
+      <b>Exchange Semester</b><br />
+      <sub>Erasmus+ Programme</sub><br /><br />
+      <sub>İkinci Erasmus+ dönemim — Avrupa'da<br />ikinci kez akademik ve kültürel değişim.</sub>
+    </td>
+  </tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,50:ec4899,100:22d3ee&height=3&section=header" width="100%" alt="divider" />
+
+<!-- ============ TECH STACK ============ -->
+
+## 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -49,9 +109,84 @@ Software Engineering student &amp; Certified Frontend Developer | Building respo
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,50:ec4899,100:22d3ee&height=3&section=header" width="100%" alt="divider" />
+
+<!-- ============ PROJECTS ============ -->
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/melissuki/catstagram">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=melissuki&repo=catstagram&bg_color=00000000&hide_border=true&title_color=A855F7&text_color=C9D1D9&icon_color=22D3EE" alt="catstagram" />
+  </a>
+  <a href="https://github.com/melissuki/kisisel-web-sitesi">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=melissuki&repo=kisisel-web-sitesi&bg_color=00000000&hide_border=true&title_color=EC4899&text_color=C9D1D9&icon_color=22D3EE" alt="kisisel-web-sitesi" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/melissuki/pixel-quest">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=melissuki&repo=pixel-quest&bg_color=00000000&hide_border=true&title_color=22D3EE&text_color=C9D1D9&icon_color=A855F7" alt="pixel-quest" />
+  </a>
+  <a href="https://github.com/melissuki/LaravelProject">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=melissuki&repo=LaravelProject&bg_color=00000000&hide_border=true&title_color=A855F7&text_color=C9D1D9&icon_color=EC4899" alt="LaravelProject" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/melissuki/E-commerce-Project">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=melissuki&repo=E-commerce-Project&bg_color=00000000&hide_border=true&title_color=EC4899&text_color=C9D1D9&icon_color=A855F7" alt="E-commerce-Project" />
+  </a>
+  <a href="https://github.com/melissuki/pizza">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=melissuki&repo=pizza&bg_color=00000000&hide_border=true&title_color=22D3EE&text_color=C9D1D9&icon_color=EC4899" alt="pizza" />
+  </a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,50:ec4899,100:22d3ee&height=3&section=header" width="100%" alt="divider" />
+
+<!-- ============ STATS ============ -->
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=melissuki&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&hide_border=true&title_color=A855F7&icon_color=22D3EE&text_color=C9D1D9&ring_color=EC4899" alt="GitHub Stats" />
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melissuki&layout=compact&langs_count=8&bg_color=00000000&hide_border=true&title_color=EC4899&text_color=C9D1D9" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img width="60%" src="https://streak-stats.demolab.com?user=melissuki&background=00000000&hide_border=true&ring=EC4899&fire=A855F7&currStreakLabel=22D3EE&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=melissuki&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,50:ec4899,100:22d3ee&height=3&section=header" width="100%" alt="divider" />
+
+<!-- ============ SNAKE ============ -->
+
+## 🐍 Contribution Graph
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/melissuki/melissuki/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://raw.githubusercontent.com/melissuki/melissuki/output/github-snake.svg" />
+    <img alt="Snake animation"
+         src="https://raw.githubusercontent.com/melissuki/melissuki/output/github-snake.svg" />
+  </picture>
+</div>
+
+<!-- ============ FOOTER ============ -->
+
+<p align="center">
+  <i>“First, solve the problem. Then, write the code.” — John Johnson</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:ec4899,100:a855f7&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=ffffff&fontAlignY=72" alt="footer" />
+</p>  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
   <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest" />
 </p>
@@ -76,11 +211,16 @@ Software Engineering student &amp; Certified Frontend Developer | Building respo
 </p>
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/melissuki/melissuki/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/melissuki/melissuki/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/melissuki/melissuki/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/melissuki/melissuki/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://raw.githubusercontent.com/melissuki/melissuki/output/github-snake.svg" />
+    <img alt="Snake animation"
+         src="https://raw.githubusercontent.com/melissuki/melissuki/output/github-snake.svg" />
+  </picture>
+</div>
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/melissuki">melissuki</a></i></p>
