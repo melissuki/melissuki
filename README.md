@@ -1,25 +1,5 @@
 <img src="https://raw.githubusercontent.com/melissuki/melissuki/main/hero.svg?v=2" width="100%" alt="Hi, I'm Melis" /> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&pause=900&color=22D3EE&center=true&vCenter=true&width=760&height=48&lines=Software+Engineering+Student+%40+Nisantasi+University;Certified+Frontend+Developer;React+%7C+TypeScript+%7C+Tailwind+CSS+%7C+Next.js;Erasmus%2B+alumna+in+Guarda%2C+Portugal;Turning+coffee+into+components;Always+building+something+new" alt="What I do" /> </p> <p align="center"> <a href="https://linkedin.com/in/KULLANICI-ADIN"><img src="https://img.shields.io/badge/LinkedIn-A855F7?style=flat-square&logo=linkedin&logoColor=white&labelColor=1a1b26" height="30" alt="LinkedIn" /></a>&nbsp; <a href="https://github.com/melissuki/kisisel-web-sitesi"><img src="https://img.shields.io/badge/Portfolio-EC4899?style=flat-square&logo=safari&logoColor=white&labelColor=1a1b26" height="30" alt="Portfolio" /></a>&nbsp; <a href="mailto:melissukaya2004@gmail.com"><img src="https://img.shields.io/badge/Email-F472B6?style=flat-square&logo=gmail&logoColor=white&labelColor=1a1b26" height="30" alt="Email" /></a>&nbsp; <img src="https://komarev.com/ghpvc/?username=melissuki&label=Visitors&color=22d3ee&style=flat-square" height="30" alt="Visitors" /> </p> <img src="https://raw.githubusercontent.com/melissuki/melissuki/main/divider.svg" width="100%" alt="" /> <h2 align="center">◆ &nbsp;whoami&nbsp; ◆</h2> <p align="center"> <img src="https://raw.githubusercontent.com/melissuki/melissuki/main/cats.svg" width="560" alt="Cats drawn in ones and zeros" /> </p> <table align="center"> <tr> <td width="50%" valign="top">
 
-<p align="center">
-  <pre align="center" style="background-color: #0d1117; padding: 16px; border-radius: 12px; color: #c9d1d9; font-family: monospace; font-size: 11px; line-height: 12px;">
-<code style="color: #c9d1d9;">
-<span style="color: #a855f7;">            _..._</span>                  <span style="color: #ec4899;">melis@nisantasi-dev</span> ----------------------------
-<span style="color: #a855f7;">          .::    ::.</span>               <span style="color: #22d3ee;">. OS:</span>           macOS / Linux / Web
-<span style="color: #a855f7;">         ;;;      ;;;</span>              <span style="color: #22d3ee;">. Role:</span>         Software Engineering Senior
-<span style="color: #a855f7;">        ;;;        ;;;</span>             <span style="color: #22d3ee;">. University:</span>   İstanbul Nişantaşı University
-<span style="color: #a855f7;">        `;;        ;;;'</span>            <span style="color: #22d3ee;">. Focus:</span>        React, Next.js, Java, Supabase
-<span style="color: #a855f7;">          `::....::'</span>               
-<span style="color: #ec4899;">           /      \</span>                <span style="color: #ec4899;">- Contact --------------------------------------</span>
-<span style="color: #ec4899;">          /        \</span>               <span style="color: #22d3ee;">. Email:</span>        melissukaya2004@gmail.com
-<span style="color: #ec4899;">         |          |</span>              <span style="color: #22d3ee;">. LinkedIn:</span>     melis-su-kaya-397529248
-<span style="color: #ec4899;">          \        /</span>               <span style="color: #22d3ee;">. GitHub:</span>       melissuki
-<span style="color: #ec4899;">           `------'</span>                
-                                   <span style="color: #ec4899;">- Languages & Skills ---------------------------</span>
-                                   <span style="color: #22d3ee;">. Spoken:</span>       Turkish, English (B2)
-                                   <span style="color: #22d3ee;">. Code:</span>         JavaScript, TypeScript, Java, SQL
-</code>
-  </pre>
-</p>
 
 🎓  Studying Software Engineering at İstanbul Nişantaşı University — algorithms, data structures and everything in between.
 
